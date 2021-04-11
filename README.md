@@ -13,7 +13,3 @@ COMPEC is a career club founded in 1994 at Boğaziçi University.  Compec works 
 
 
 Invent Analytics is a global provider of advanced analytics solutions for retailers, FMCG companies and various other sectors. Invent's products and services enable companies to achieve maximum profitability with data-driven inventory, pricing and other operational decisions. Invent Analytics currently has offices in Turkey, Canada and USA.
-
-## Let us introduce our amazing team: wearecoding
-
-![This is our team](AlgoRun team Photo.jpeg)
